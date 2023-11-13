@@ -1,2 +1,2 @@
 # adaptation-genomics
-Pipeline used for identify genes under positive selection using PAML
+Pipeline used for identifying genes under positive selection using PAML
